@@ -1,0 +1,10 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts" : {
+    "start": "node app.js"
+  },
+  "repository": "https://github.com/mp40/node_basics.git",
+  "license": "MIT"
+}
