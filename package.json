@@ -2,9 +2,12 @@
   "name": "node_basics",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts" : {
+  "scripts": {
     "start": "node app.js"
   },
   "repository": "https://github.com/mp40/node_basics.git",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
 }
